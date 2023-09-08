@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/m-missano/m-missano">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-missano&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-missano&layout=compact&langs_count=16&theme=react"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-missano&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-missano&layout=compact&langs_count=16&theme=react"/>
 </div>
 
 <div style="display: inline_block"><br>
